@@ -36,8 +36,8 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=C,C++,java,mysql,tailwind,javascript,react,githubactions" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,nextjs,aws,py,github,git,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,tailwind,javascript,react,py" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,aws,github,git,postman" /><br>
 	
 </div>
 
@@ -67,8 +67,3 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AtharvaShaha&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<hr/>
-<h2 align="center">🏆 GitHub Trophies ⚡</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaShaha&theme=onedark&column=7" alt="Trophies" />
-</p>
